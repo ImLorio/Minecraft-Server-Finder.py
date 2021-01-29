@@ -1,2 +1,4 @@
 # Minecraft-Server-Finder.py
-Minecraft server finder in python (my first py project)
+
+This script generate random IP and check if minecraft server is online.
+Its my first script, not optimized :c
